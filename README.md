@@ -4,7 +4,7 @@ purf
 ## Installation
 ### 1. Create and activate conda envorinment:
 ``` bash
-conda create -n purf scikit-learn=0.24.2 numpy=1.19.0 cython=0.29.21 pandas 1.3.2
+conda create -n purf scikit-learn=0.24.2 numpy=1.19.0 cython=0.29.21 pandas=1.3.2
 conda activate purf
 ```
 
