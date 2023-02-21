@@ -19,6 +19,9 @@ cd purf
 python3 setup.py install
 ```
 
+## Demo
+Refer to notebooks/demo.ipynb for small data set demo. The expected output is a trained PURF model and the tested runtime is ~97 s using all threads on MacBook with 2.4 GHz 8-Core Intel Core i9 and 32 GB 2667 MHz DDR4.
+
 ## References
 - Li, Chen, and Xue-Liang Hua. 2014. “Towards Positive Unlabeled Learning for Parallel Data Mining: A Random Forest Framework.” In International Conference on Advanced Data Mining and Applications, 573–87. Springer.
 
