@@ -10,7 +10,7 @@ conda activate purf
 
 ### 2. Download package:
 ``` bash
-https://github.com/RTChou/purf.git
+git clone https://github.com/RTChou/purf.git
 cd purf
 ``` 
 
